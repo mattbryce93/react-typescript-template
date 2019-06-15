@@ -54,5 +54,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project is an example of integrating react and typescript together with tslint.",
+  "main": "index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbryce93/react-typescript-template.git"
+  },
+  "author": "mattbryce93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattbryce93/react-typescript-template/issues"
+  },
+  "homepage": "https://github.com/mattbryce93/react-typescript-template#readme"
 }
